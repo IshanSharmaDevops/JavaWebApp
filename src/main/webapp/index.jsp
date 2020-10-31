@@ -1,6 +1,6 @@
 <html>
 <title>
-Bank Application
+Bank Applications
 </title>
 <body>
 <center>
